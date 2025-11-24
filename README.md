@@ -25,7 +25,7 @@ ds_K_Rajasekhar/
 ## ▶️ **How to Run the Notebook**
 
 1. Open the Colab notebook here:  
-   👉 **ADD_YOUR_COLAB_LINK_HERE**  
+   👉 **https://colab.research.google.com/drive/1KnSEV3ILcaWPKrlpH0f2Vq_bz8v8v11w#scrollTo=dOf6hAc8HiFO**  
    *(Go to Colab → Share → set to “Anyone with the link can view”)*
 
 2. Upload or ensure these datasets exist in `/content/`:
